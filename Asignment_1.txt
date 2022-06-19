@@ -1,0 +1,25 @@
+1. Explain the use of JavaScript ( or What you can do using a JavaScript)
+javaScript is used everywhere right now , creating web applications desktop applications mobile applications even in blockchain as well.
+people are used js for DSA also to solve problems 
+
+
+2. What is the difference between client-side and server-side?
+in simple word client side means what we see and server side means what we cannot see. front-end we called client side & back-end we called sever-side
+
+3. What is Nodejs?
+it is a run time engine base on javaScript we use it for writing backend server,api .
+
+
+4. Explain Scope in JavaScript
+accessibility of variables, objects, and functions from different parts of the code.
+
+
+5. JavaScript is asynchronous or synchronous.
+Synchronous
+
+
+6. JavaScript is Single-threaded or Multi-threaded.
+Single-threaded
+
+7. Explain DOM in your own word.
+DOM is a way to represent the webpage in a structured hierarchical way so that it will become easier for programmers and users to glide through the document
